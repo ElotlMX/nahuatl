@@ -1,0 +1,2109 @@
+Lexicón español-náhuatl automático
+Conjunto de evaluación y resultados obtenidos como parte de la tesis: Extracción léxica bilingüe automática para lenguas de bajos recursos digitales, UNAM.
+XIMENA GUTIERREZ-VASQUES
+
+El lexicón está abierto a extenderse y corregirse. Envíar feedback a xim at unam.mx o a través de esta página web.
+
+1 Palabra_ES: jadear 
+ Traducción_NA:
+ tixtomahua:0.935
+ itlachi:0.755
+ tolini:0.734
+ cuitl:0.631
+ icemel:0.622
+ timamalihuac:0.621
+ ili:0.619
+ ixpetla:0.615
+ ixeo:0.604
+ milacatzo:0.565 
+ Referencia: ['tixtomahua'] 
+ Rank: 1
+
+2 Palabra_ES: visceras 
+ Traducción_NA:
+ tlahuicxitilli:0.795
+ cuacualaca:0.779
+ itzoltilia:0.707
+ motlali:0.697
+ zoqui:0.693
+ paca:0.686
+ tlalia:0.683
+ temolcax:0.681
+ caxi:0.680
+ cuacua:0.673 
+ Referencia: ['ihti', 'ehua'] 
+ Rank: 52
+
+3 Palabra_ES: desear 
+ Traducción_NA:
+ elehui:0.925
+ elehuia:0.728
+ qu:0.596
+ znequi:0.586
+ quechi:0.581
+ monequilti:0.566
+ achto:0.554
+ nequia:0.523
+ nec:0.521
+ nequi:0.520 
+ Referencia: ['elehuia', 'znequi', 'elehui', 'nequi'] 
+ Rank: 1
+
+4 Palabra_ES: galleta 
+ Traducción_NA:
+ galleta:0.964
+ comal:0.582
+ gr:0.565
+ yb:0.565
+ xacualoa:0.562
+ beethoven:0.560
+ pohualli:0.559
+ rafael:0.559
+ castillo:0.549
+ acamapich:0.549 
+ Referencia: ['galleta', 'tlaxcal'] 
+ Rank: 1
+
+5 Palabra_ES: horno 
+ Traducción_NA:
+ horno:0.972
+ tu:0.751
+ timihtil:0.627
+ tz:0.539
+ cuepa:0.518
+ teoticanantzin:0.509
+ cuep:0.507
+ temi:0.507
+ tlananquili:0.498
+ huic:0.483 
+ Referencia: ['horno'] 
+ Rank: 1
+
+6 Palabra_ES: olvidar 
+ Traducción_NA:
+ huilli:0.750
+ quil:0.658
+ cahua:0.656
+ mihtalhui:0.627
+ el:0.614
+ xquin:0.548
+ xonm:0.544
+ peh:0.543
+ cuecue:0.525
+ nino:0.515 
+ Referencia: ['cahua', 'ilcahua', 'ilcaruaz'] 
+ Rank: 3
+
+7 Palabra_ES: teatro 
+ Traducción_NA:
+ tlamahuiz:0.925
+ mahuizo:0.723
+ mahui:0.596
+ imottilih:0.591
+ yah:0.569
+ dral:0.551
+ diego:0.551
+ rosario:0.546
+ itt:0.545
+ secretario:0.543 
+ Referencia: ['tlamahuiz', 'mahui'] 
+ Rank: 1
+
+8 Palabra_ES: alegrar 
+ Traducción_NA:
+ pahpaqui:0.561
+ ahuia:0.546
+ papa:0.525
+ tehhuellamac:0.508
+ tlaza:0.503
+ tinemiz:0.472
+ cuica:0.458
+ tixtomahua:0.450
+ nechico:0.444
+ nemi:0.444 
+ Referencia: ['pahpaqui', 'ahuia', 'pahpa'] 
+ Rank: 1
+
+9 Palabra_ES: ciudad 
+ Traducción_NA:
+ altepe:0.954
+ altpe:0.900
+ hueyi:0.637
+ huey:0.632
+ nemiliz:0.590
+ tlahtoca:0.561
+ tepe:0.557
+ mexica:0.552
+ gali:0.543
+ huehue:0.507 
+ Referencia: ['altpe', 'altepe'] 
+ Rank: 1
+
+10 Palabra_ES: fino 
+ Traducción_NA:
+ tlazo:0.674
+ zacuan:0.659
+ xomoihui:0.650
+ quetzal:0.620
+ cahuia:0.613
+ xical:0.603
+ quechol:0.597
+ concui:0.595
+ pech:0.582
+ teocuitla:0.579 
+ Referencia: ['tlazo', 'quetzal'] 
+ Rank: 1
+
+11 Palabra_ES: leche 
+ Traducción_NA:
+ ihchican:0.881
+ notlazohca:0.651
+ chichi:0.650
+ itzcuin:0.578
+ tzitzintin:0.557
+ illi:0.536
+ pac:0.528
+ xmechmo:0.508
+ chihchi:0.500
+ xonm:0.498 
+ Referencia: ['chichi'] 
+ Rank: 3
+
+12 Palabra_ES: mesero 
+ Traducción_NA:
+ xexelo:0.704
+ pech:0.643
+ ahco:0.643
+ cualica:0.620
+ comal:0.501
+ xeloa:0.497
+ loyan:0.487
+ lero:0.476
+ secretario:0.471
+ diego:0.471 
+ Referencia: ['xexelo'] 
+ Rank: 1
+
+13 Palabra_ES: montaña 
+ Traducción_NA:
+ huehca:0.701
+ cem:0.661
+ tepe:0.626
+ tlaloa:0.575
+ miec:0.528
+ ahquetz:0.522
+ temo:0.517
+ temoa:0.516
+ miac:0.492
+ moch:0.491 
+ Referencia: ['tepe'] 
+ Rank: 3
+
+14 Palabra_ES: seno 
+ Traducción_NA:
+ xillan:0.964
+ notozca:0.841
+ illam:0.826
+ itoz:0.805
+ motozcatlan:0.804
+ immoma:0.638
+ uitlapilco:0.609
+ mocnelili:0.602
+ potztlatziuh:0.587
+ timamalihuac:0.574 
+ Referencia: ['xillan'] 
+ Rank: 1
+
+15 Palabra_ES: mixcólotl 
+ Traducción_NA:
+ tepuz:0.751
+ mixco:0.730
+ timamalihuac:0.656
+ tlachia:0.635
+ tepotz:0.619
+ cochi:0.618
+ ahuacatl:0.594
+ ncmi:0.592
+ tz:0.584
+ xuchitl:0.584 
+ Referencia: ['mixco'] 
+ Rank: 2
+
+16 Palabra_ES: reunir 
+ Traducción_NA:
+ potz:0.863
+ nechico:0.764
+ puchteca:0.575
+ nemoa:0.549
+ pochteca:0.544
+ xipehua:0.532
+ iuhqui:0.530
+ auh:0.528
+ otitla:0.520
+ miec:0.517 
+ Referencia: ['cen', 'nechico'] 
+ Rank: 2
+
+17 Palabra_ES: madera 
+ Traducción_NA:
+ icuil:0.700
+ tlapech:0.641
+ cuauh:0.558
+ cuahuitl:0.551
+ llan:0.538
+ pech:0.507
+ ahuacatl:0.489
+ tepe:0.487
+ yuhqui:0.483
+ icpac:0.481 
+ Referencia: ['cuauh', 'tlacuauh', 'cuahuitl'] 
+ Rank: 3
+
+18 Palabra_ES: decir 
+ Traducción_NA:
+ lhuia:0.733
+ hto:0.729
+ lhui:0.719
+ zcuco:0.711
+ niman:0.711
+ ilhui:0.708
+ auh:0.705
+ quin:0.676
+ tepahpaquiltia:0.674
+ zque:0.672 
+ Referencia: ['hto', 'lhuia', 'ilhuia', 'lhui'] 
+ Rank: 1
+
+19 Palabra_ES: salvaje 
+ Traducción_NA:
+ uanime:0.893
+ ticuahcua:0.624
+ mexica:0.592
+ xolochcue:0.591
+ dral:0.550
+ secretario:0.541
+ yb:0.533
+ rosario:0.532
+ acamapich:0.527
+ salveros:0.521 
+ Referencia: ['uanime'] 
+ Rank: 1
+
+20 Palabra_ES: echar 
+ Traducción_NA:
+ patahuaz:0.696
+ contla:0.688
+ tz:0.607
+ zque:0.598
+ totoca:0.582
+ quim:0.579
+ xip:0.577
+ yb:0.571
+ tlaloa:0.567
+ yaca:0.567 
+ Referencia: ['contla', 'atlatzicuina'] 
+ Rank: 2
+
+21 Palabra_ES: pasar 
+ Traducción_NA:
+ pano:0.918
+ saroa:0.798
+ amen:0.631
+ tlen:0.610
+ lti:0.581
+ moch:0.579
+ omo:0.578
+ tepahpaquiltia:0.560
+ yb:0.559
+ im:0.552 
+ Referencia: ['panoa', 'pano'] 
+ Rank: 1
+
+22 Palabra_ES: tomar 
+ Traducción_NA:
+ zcuco:0.695
+ xip:0.687
+ cui:0.681
+ tepahpaquiltia:0.660
+ yb:0.648
+ fa:0.647
+ dral:0.637
+ hual:0.631
+ auh:0.629
+ zque:0.625 
+ Referencia: ['can', 'cuilia', 'ana', 'cui', 'concui'] 
+ Rank: 3
+
+23 Palabra_ES: establecer 
+ Traducción_NA:
+ itoa:0.580
+ cauh:0.569
+ iuh:0.533
+ acique:0.525
+ tepe:0.525
+ pul:0.511
+ lique:0.503
+ auh:0.494
+ chic:0.478
+ cuezcoma:0.473 
+ Referencia: ['tlalia', 'chan'] 
+ Rank: 116
+
+24 Palabra_ES: yo 
+ Traducción_NA:
+ ne:0.764
+ nicpia:0.761
+ fa:0.732
+ zquia:0.703
+ hua:0.657
+ iuh:0.627
+ e:0.579
+ tlazohtla:0.575
+ onie:0.572
+ mati:0.570 
+ Referencia: ['ne', 'nehhua'] 
+ Rank: 1
+
+25 Palabra_ES: familiar 
+ Traducción_NA:
+ familiar:0.963
+ xicol:0.639
+ tlaloa:0.580
+ chmotlahpalhui:0.580
+ cocox:0.567
+ secretario:0.525
+ salveros:0.523
+ comal:0.523
+ dral:0.517
+ xacualoa:0.517 
+ Referencia: ['familiar'] 
+ Rank: 1
+
+26 Palabra_ES: limpiar 
+ Traducción_NA:
+ chipahuaque:0.905
+ pohpo:0.811
+ mitz:0.650
+ comitl:0.606
+ stancia:0.584
+ cciz:0.583
+ mozacaticonti:0.569
+ bo:0.563
+ temi:0.561
+ caxi:0.559 
+ Referencia: ['chipahuaque', 'popo', 'pohpo'] 
+ Rank: 1
+
+27 Palabra_ES: volver 
+ Traducción_NA:
+ cuepa:0.788
+ mocuep:0.763
+ ixpetani:0.703
+ yahualoa:0.574
+ ac:0.552
+ cuep:0.522
+ cala:0.518
+ im:0.517
+ melauh:0.512
+ amo:0.510 
+ Referencia: ['cuepa', 'mocuep'] 
+ Rank: 1
+
+28 Palabra_ES: dar 
+ Traducción_NA:
+ dar:0.939
+ maca:0.846
+ zcuco:0.691
+ auh:0.675
+ mah:0.670
+ xic:0.665
+ quin:0.651
+ taca:0.633
+ tepahpaquiltia:0.627
+ omo:0.627 
+ Referencia: ['dar', 'maca'] 
+ Rank: 1
+
+29 Palabra_ES: tanto 
+ Traducción_NA:
+ ih:0.781
+ zazan:0.683
+ meh:0.668
+ amuel:0.627
+ itemohui:0.616
+ t:0.589
+ zcuco:0.574
+ tepahpaquiltia:0.570
+ yuhqui:0.555
+ yb:0.553 
+ Referencia: ['izqui', 'zazan'] 
+ Rank: 2
+
+30 Palabra_ES: traer 
+ Traducción_NA:
+ hual:0.721
+ cui:0.656
+ huica:0.645
+ tih:0.579
+ tqui:0.570
+ zcuco:0.561
+ tepahpaquiltia:0.556
+ cualica:0.548
+ t:0.540
+ xochi:0.536 
+ Referencia: ['huiqui', 'huica', 'cui', 'itqui'] 
+ Rank: 2
+
+31 Palabra_ES: escalera 
+ Traducción_NA:
+ nmediasco:0.899
+ oquinanquili:0.699
+ ilpia:0.629
+ dia:0.609
+ pualhuany:0.544
+ comal:0.533
+ cocone:0.530
+ mahca:0.522
+ icuilacta:0.510
+ nario:0.509 
+ Referencia: ['mama', 'escalera'] 
+ Rank: 153
+
+32 Palabra_ES: oír 
+ Traducción_NA:
+ acica:0.921
+ nlcaci:0.770
+ ami:0.663
+ cac:0.661
+ cuic:0.636
+ camati:0.593
+ tepahpaquiltia:0.562
+ quimolhui:0.560
+ mitalhui:0.552
+ ihuinti:0.548 
+ Referencia: ['cac', 'caqui'] 
+ Rank: 4
+
+33 Palabra_ES: comenzar 
+ Traducción_NA:
+ pehua:0.906
+ peuh:0.816
+ pen:0.654
+ ignacio:0.634
+ omo:0.577
+ tlahuiz:0.532
+ ahuacatl:0.518
+ yohua:0.514
+ xip:0.509
+ dral:0.506 
+ Referencia: ['peuh', 'pehua'] 
+ Rank: 1
+
+34 Palabra_ES: itacates 
+ Traducción_NA:
+ ihtacatl:0.947
+ huauh:0.660
+ calhuahza:0.644
+ pinol:0.597
+ chichil:0.596
+ xipehua:0.559
+ xip:0.546
+ zacuam:0.534
+ xoxouhqui:0.530
+ castillo:0.527 
+ Referencia: ['ihtacatl'] 
+ Rank: 1
+
+35 Palabra_ES: brazo 
+ Traducción_NA:
+ cuecue:0.650
+ tonehua:0.571
+ milacatzo:0.567
+ icemel:0.566
+ mama:0.563
+ timamalihuac:0.548
+ pahpaqui:0.547
+ cocone:0.536
+ ncmi:0.534
+ huetzi:0.530 
+ Referencia: ['aca'] 
+ Rank: 949
+
+36 Palabra_ES: querer 
+ Traducción_NA:
+ nequi:0.891
+ znequi:0.778
+ nequia:0.666
+ ixquich:0.621
+ zazo:0.595
+ fa:0.591
+ nec:0.589
+ izta:0.551
+ den:0.543
+ amo:0.541 
+ Referencia: ['nequia', 'znequi', 'monequilti', 'nequi'] 
+ Rank: 1
+
+37 Palabra_ES: paso 
+ Traducción_NA:
+ pasilla:0.966
+ chilcuitlaxcolli:0.745
+ chil:0.702
+ zoh:0.654
+ xumalli:0.603
+ club:0.597
+ dral:0.587
+ secretario:0.581
+ diego:0.580
+ federal:0.580 
+ Referencia: ['pasilla'] 
+ Rank: 1
+
+38 Palabra_ES: tráiganla 
+ Traducción_NA:
+ xic:0.826
+ namoahtapal:0.776
+ cui:0.688
+ hual:0.650
+ yb:0.608
+ nican:0.596
+ dar:0.591
+ necoc:0.574
+ dral:0.561
+ diego:0.559 
+ Referencia: ['cui', 'huica'] 
+ Rank: 3
+
+39 Palabra_ES: derribar 
+ Traducción_NA:
+ mota:0.820
+ tatemp:0.749
+ tata:0.673
+ motemilih:0.620
+ nepapan:0.604
+ nimitz:0.555
+ secretario:0.549
+ dral:0.546
+ castillo:0.539
+ tepahpaquiltia:0.538 
+ Referencia: ['tatemp'] 
+ Rank: 2
+
+40 Palabra_ES: esfuerzo 
+ Traducción_NA:
+ quexquich:0.722
+ chicahua:0.574
+ ihiyo:0.567
+ potztlatziuh:0.536
+ machi:0.510
+ nohuian:0.495
+ quezqui:0.493
+ yb:0.484
+ tolini:0.482
+ cahua:0.477 
+ Referencia: ['cuammaca', 'chicahua', 'chicahuaz'] 
+ Rank: 2
+
+41 Palabra_ES: unir 
+ Traducción_NA:
+ f:0.819
+ george:0.748
+ estado:0.662
+ do:0.607
+ cahuan:0.593
+ tlahtocayotl:0.582
+ ahuacatl:0.566
+ fe:0.554
+ 19:0.552
+ isoldado:0.533 
+ Referencia: ['cen'] 
+ Rank: 243
+
+42 Palabra_ES: pieza 
+ Traducción_NA:
+ xexelo:0.818
+ xeloa:0.612
+ lero:0.561
+ loyan:0.542
+ micuani:0.539
+ cualica:0.520
+ nah:0.514
+ huehca:0.507
+ tepahpaquiltia:0.495
+ tlacual:0.495 
+ Referencia: ['xexelo'] 
+ Rank: 1
+
+43 Palabra_ES: cultura 
+ Traducción_NA:
+ cultura:0.972
+ tlamatiliz:0.961
+ toyalhuayo:0.719
+ nahuatlahtol:0.684
+ lahtol:0.617
+ iayah:0.610
+ moyacanilia:0.588
+ huehue:0.562
+ moteihtitili:0.556
+ potz:0.544 
+ Referencia: ['tlamatiliz', 'cultura'] 
+ Rank: 1
+
+44 Palabra_ES: cargo 
+ Traducción_NA:
+ ahqui:0.717
+ tlaliliz:0.660
+ chihui:0.660
+ onino:0.651
+ im:0.577
+ xip:0.576
+ ticmo:0.570
+ milacatzo:0.568
+ notelpo:0.565
+ mix:0.558 
+ Referencia: ['tlahtoca', 'toca'] 
+ Rank: 582
+
+45 Palabra_ES: admirar 
+ Traducción_NA:
+ mahuizo:0.894
+ imottilih:0.764
+ tlamahuiz:0.654
+ itt:0.618
+ chililiz:0.598
+ onimitz:0.583
+ mahui:0.571
+ mihtlanililia:0.561
+ itti:0.541
+ xip:0.538 
+ Referencia: ['tlamahuiz', 'mahuizo'] 
+ Rank: 1
+
+46 Palabra_ES: pez 
+ Traducción_NA:
+ mimic:0.834
+ michi:0.642
+ ahhua:0.627
+ ictique:0.615
+ dral:0.600
+ diego:0.593
+ mic:0.592
+ secretario:0.584
+ castillo:0.580
+ rosario:0.576 
+ Referencia: ['michi','mimic'] 
+ Rank: 1
+
+47 Palabra_ES: valer 
+ Traducción_NA:
+ 1:0.675
+ quexquich:0.650
+ ton:0.596
+ mama:0.494
+ yancui:0.484
+ quezqui:0.475
+ toma:0.471
+ s:0.469
+ nuevo:0.462
+ ki:0.461 
+ Referencia: ['patio'] 
+ Rank: 14
+
+48 Palabra_ES: caja 
+ Traducción_NA:
+ petlacal:0.932
+ top:0.752
+ tlachie:0.591
+ ixtelolo:0.524
+ ilpi:0.522
+ ui:0.510
+ cxi:0.501
+ xillan:0.500
+ pie:0.492
+ mohuaxca:0.491 
+ Referencia: ['petlacal'] 
+ Rank: 1
+
+49 Palabra_ES: vender 
+ Traducción_NA:
+ tlanamacazquia:0.957
+ tlanamaca:0.956
+ namaco:0.818
+ namaca:0.792
+ villistas:0.626
+ rosario:0.624
+ secretario:0.617
+ dral:0.610
+ salveros:0.606
+ diego:0.606 
+ Referencia: ['tlanamacazquia', 'namaca', 'tlanamaca', 'namaco'] 
+ Rank: 1
+
+50 Palabra_ES: rostro 
+ Traducción_NA:
+ mixco:0.816
+ tlachia:0.752
+ yollo:0.691
+ timamalihuac:0.685
+ notelpo:0.657
+ mix:0.644
+ notozca:0.634
+ ixeo:0.634
+ naz:0.622
+ chihui:0.620 
+ Referencia: ['mixco'. 'ix', 'mix'] 
+ Rank: 1
+
+51 Palabra_ES: descanso 
+ Traducción_NA:
+ mocehui:0.848
+ calyolot:0.636
+ huizque:0.582
+ pepe:0.579
+ immotla:0.570
+ icpal:0.561
+ acia:0.554
+ tlauh:0.517
+ timamalihuac:0.516
+ ciauh:0.511 
+ Referencia: ['mocehui'] 
+ Rank: 1
+
+52 Palabra_ES: lodo 
+ Traducción_NA:
+ atlatzicuina:0.910
+ zoqui:0.689
+ atahuit:0.643
+ mimacaci:0.640
+ itti:0.625
+ caxi:0.593
+ ich:0.554
+ tema:0.543
+ salvador:0.531
+ motzicoa:0.524 
+ Referencia: ['zoqui'] 
+ Rank: 2
+
+53 Palabra_ES: perdonar 
+ Traducción_NA:
+ pohpo:0.909
+ mozacaticonti:0.759
+ otimitzno:0.702
+ chipahuaque:0.665
+ pahcayo:0.599
+ mochantilia:0.515
+ comitl:0.513
+ stancia:0.501
+ iahhuui:0.488
+ itzoltilia:0.482 
+ Referencia: ['pohpo', 'popol'] 
+ Rank: 1
+
+54 Palabra_ES: pipián 
+ Traducción_NA:
+ chilacach:0.965
+ temolcax:0.654
+ textli:0.629
+ secretario:0.626
+ castillo:0.619
+ acamapich:0.616
+ yohuac:0.614
+ rosario:0.614
+ rafael:0.611
+ salveros:0.610 
+ Referencia: ['yohuac', 'chilacach'] 
+ Rank: 1
+
+55 Palabra_ES: llanura 
+ Traducción_NA:
+ xtlahua:0.820
+ as:0.623
+ ip:0.586
+ ua:0.567
+ mitz:0.537
+ tlahui:0.528
+ xinach:0.507
+ tlalli:0.504
+ eu:0.449
+ zaca:0.448 
+ Referencia: ['xtlahua','tlal', 'tlalli'] 
+ Rank: 1
+
+56 Palabra_ES: transportar 
+ Traducción_NA:
+ axiti:0.750
+ chalchiuh:0.688
+ chalchihui:0.660
+ quetzal:0.626
+ illam:0.604
+ zacuan:0.565
+ itoz:0.561
+ xillan:0.553
+ teu:0.548
+ xip:0.547 
+ Referencia: ['axiti'] 
+ Rank: 1
+
+57 Palabra_ES: ver 
+ Traducción_NA:
+ ver:0.945
+ tta:0.812
+ yb:0.647
+ uh:0.641
+ xip:0.634
+ auh:0.626
+ tac:0.618
+ cen:0.614
+ zcuco:0.612
+ oncan:0.607 
+ Referencia: ['tta', 'itac', 'ver', 'conmottilia', 'itta'] 
+ Rank: 1
+
+58 Palabra_ES: vasija 
+ Traducción_NA:
+ comitl:0.727
+ cax:0.694
+ chiquihui:0.655
+ tecoma:0.638
+ zoqui:0.627
+ caxi:0.612
+ nechicalhui:0.612
+ xommo:0.566
+ xaxa:0.559
+ cuitlahui:0.540 
+ Referencia: ['comitl', 'cax', 'tecoma'] 
+ Rank: 1
+
+59 Palabra_ES: sabor 
+ Traducción_NA:
+ mati:0.622
+ lan:0.598
+ tro:0.562
+ chil:0.549
+ iahhuui:0.500
+ ermanos:0.478
+ yol:0.477
+ choh:0.471
+ mian:0.467
+ ahnozo:0.465 
+ Referencia: ['iahhuui', 'mati'] 
+ Rank: 1
+
+60 Palabra_ES: amado 
+ Traducción_NA:
+ tlazohtla:0.935
+ ama:0.794
+ ticcua:0.793
+ zquia:0.758
+ tlazo:0.643
+ diego:0.588
+ tazohta:0.582
+ comal:0.581
+ niz:0.575
+ federal:0.571 
+ Referencia: ['tlazo', 'tlazohtla'] 
+ Rank: 1
+
+61 Palabra_ES: cofre 
+ Traducción_NA:
+ top:0.939
+ petlacal:0.844
+ xillan:0.557
+ itoz:0.557
+ ilpi:0.553
+ tlachie:0.544
+ motozcatlan:0.524
+ pale:0.523
+ xuchitl:0.521
+ onimitz:0.518 
+ Referencia: ['top', 'petlacal'] 
+ Rank: 1
+
+62 Palabra_ES: tigre 
+ Traducción_NA:
+ ocelo:0.956
+ tecuan:0.721
+ zacuan:0.705
+ quechol:0.656
+ cacehuaztli:0.628
+ totome:0.568
+ quetzal:0.568
+ ehua:0.566
+ dral:0.546
+ tototl:0.541 
+ Referencia: ['ocelo', 'tecuan'] 
+ Rank: 1
+
+63 Palabra_ES: ramo 
+ Traducción_NA:
+ ramos:0.927
+ g:0.704
+ señor:0.595
+ pixca:0.546
+ tlaca:0.542
+ gr:0.536
+ ri:0.530
+ vor:0.523
+ poalli:0.523
+ egorio:0.495 
+ Referencia: ['ramos'] 
+ Rank: 1
+
+64 Palabra_ES: comer 
+ Traducción_NA:
+ cua:0.815
+ cuaz:0.814
+ ´tos:0.731
+ tlacual:0.721
+ cualtiz:0.661
+ tepahpaquiltia:0.607
+ zque:0.586
+ dral:0.550
+ cuap:0.549
+ niquintlayocoli:0.546 
+ Referencia: ['cuaz', 'cualtiz', 'otlacua', 'cua', 'tlacual'] 
+ Rank: 1
+
+65 Palabra_ES: cierto 
+ Traducción_NA:
+ melahua:0.943
+ nel:0.747
+ mitzmo:0.578
+ hualla:0.574
+ yb:0.572
+ ichpoc:0.569
+ xip:0.563
+ milacatzo:0.563
+ ihtoh:0.562
+ zque:0.560 
+ Referencia: ['melahua', 'nel', 'cecni'] 
+ Rank: 1
+
+66 Palabra_ES: tierno 
+ Traducción_NA:
+ xoxouhqui:0.772
+ stancia:0.617
+ calhuahza:0.599
+ chilmolli:0.598
+ nohpal:0.595
+ xoxo:0.583
+ nopal:0.573
+ catarina:0.550
+ izhua:0.543
+ ahnozo:0.540 
+ Referencia: ['xoxouhqui', 'ne'] 
+ Rank: 1
+
+67 Palabra_ES: lavar 
+ Traducción_NA:
+ paca:0.928
+ caxi:0.747
+ tlalia:0.669
+ tlahuicxitilli:0.663
+ ihti:0.640
+ motlali:0.630
+ mochi:0.627
+ huic:0.624
+ tec:0.619
+ mp:0.618 
+ Referencia: ['paca'] 
+ Rank: 1
+
+68 Palabra_ES: gritar 
+ Traducción_NA:
+ tzatzi:0.959
+ lero:0.560
+ ihcahuaca:0.552
+ tzahtzi:0.531
+ dral:0.464
+ secretario:0.463
+ diego:0.463
+ tlacacalata:0.462
+ salveros:0.460
+ acamapich:0.460 
+ Referencia: ['tzatzi', 'tzahtzi'] 
+ Rank: 1
+
+69 Palabra_ES: jugar 
+ Traducción_NA:
+ mahui:0.901
+ nocniu:0.682
+ ltih:0.668
+ ahuil:0.607
+ mahuizzo:0.575
+ pahpa:0.561
+ ihcuilo:0.528
+ cuetlaxo:0.522
+ sombra:0.516
+ tizque:0.513 
+ Referencia: ['mahui'] 
+ Rank: 1
+
+70 Palabra_ES: enorme 
+ Traducción_NA:
+ mil:0.766
+ huehca:0.717
+ cpac:0.619
+ tepahpaquiltia:0.598
+ jard:0.596
+ xochi:0.594
+ dral:0.584
+ zcuco:0.584
+ occe:0.583
+ moch:0.580 
+ Referencia: ['huey'] 
+ Rank: 277
+
+71 Palabra_ES: anáhuac 
+ Traducción_NA:
+ noch:0.713
+ nahuac:0.660
+ tzaoctimanca:0.657
+ siempre:0.649
+ tlamatiliz:0.605
+ cultura:0.603
+ m:0.579
+ dueño:0.578
+ zcuco:0.567
+ de:0.563 
+ Referencia: ['nahuac'] 
+ Rank: 2
+
+72 Palabra_ES: acabar 
+ Traducción_NA:
+ tlami:0.709
+ mic:0.661
+ cauh:0.646
+ ahui:0.623
+ yoltequipacho:0.595
+ auh:0.590
+ miqui:0.566
+ tami:0.562
+ totecuyo:0.550
+ tepahpaquiltia:0.537 
+ Referencia: ['tami', 'tlami'] 
+ Rank: 1
+
+73 Palabra_ES: pluma 
+ Traducción_NA:
+ quetzal:0.915
+ ihui:0.799
+ potonia:0.725
+ tapayol:0.674
+ huitz:0.672
+ xahua:0.670
+ zacuan:0.654
+ coatl:0.649
+ ten:0.643
+ quechol:0.630 
+ Referencia: ['quetzal'] 
+ Rank: 1
+
+74 Palabra_ES: indígena 
+ Traducción_NA:
+ lahtol:0.874
+ macehual:0.796
+ nahuatlahtol:0.643
+ toyalhuayo:0.574
+ moyacanilia:0.567
+ elehuia:0.562
+ cultura:0.539
+ tlamatiliz:0.518
+ macihui:0.515
+ español:0.512 
+ Referencia: ['macehual'] 
+ Rank: 2
+
+75 Palabra_ES: adornar 
+ Traducción_NA:
+ uan:0.651
+ chihchihua:0.642
+ apana:0.607
+ quimon:0.544
+ oquich:0.536
+ yahualoa:0.525
+ xip:0.502
+ tizque:0.497
+ tlauhtia:0.497
+ oztomeca:0.490 
+ Referencia: ['chihchihua', 'apana'] 
+ Rank: 2
+
+76 Palabra_ES: presidente 
+ Traducción_NA:
+ presi:0.783
+ us:0.732
+ tlahtoca:0.693
+ ludovi:0.651
+ premios:0.600
+ tlahtoani:0.591
+ hueyi:0.589
+ nario:0.579
+ yacana:0.566
+ gali:0.565 
+ Referencia: ['presi'] 
+ Rank: 1
+
+77 Palabra_ES: quiltoniles 
+ Traducción_NA:
+ cualac:0.895
+ illi:0.812
+ alac:0.690
+ cuacualaca:0.604
+ apiaz:0.581
+ 1:0.575
+ oomicihcicu:0.575
+ chilmolli:0.551
+ quil:0.549
+ chil:0.545 
+ Referencia: ['quil'] 
+ Rank: 9
+
+78 Palabra_ES: aire 
+ Traducción_NA:
+ yehyecatl:0.764
+ eheca:0.693
+ eca:0.656
+ tetzahui:0.640
+ hui:0.623
+ mach:0.571
+ tlacochcalca:0.553
+ yeyeca:0.549
+ huilo:0.540
+ xip:0.534 
+ Referencia: ['yehyecatl', 'yeyeca', 'eheca'] 
+ Rank: 1
+
+79 Palabra_ES: barca 
+ Traducción_NA:
+ acalli:0.829
+ latuic:0.582
+ ltemalo:0.575
+ ono:0.540
+ tlatia:0.536
+ tzitz:0.498
+ choqui:0.471
+ poyahua:0.469
+ aquia:0.466
+ tlathui:0.457 
+ Referencia: ['acalli'] 
+ Rank: 1
+
+80 Palabra_ES: conocer 
+ Traducción_NA:
+ ixmati:0.842
+ quix:0.762
+ mati:0.738
+ iximacho:0.620
+ machi:0.601
+ ixmachilia:0.597
+ quiximati:0.593
+ choh:0.568
+ tlaca:0.567
+ y:0.560 
+ Referencia: ['ixmachilia', 'iximacho', 'oixmatilia', 'ixmati', 'mati'] 
+ Rank: 1
+
+81 Palabra_ES: muerto 
+ Traducción_NA:
+ mimic:0.624
+ mic:0.613
+ ictique:0.560
+ cuecuepotza:0.552
+ im:0.548
+ miqui:0.535
+ oquin:0.533
+ potoni:0.530
+ tzontequili:0.524
+ yb:0.515 
+ Referencia: ['mimic', 'mic'] 
+ Rank: 1
+
+82 Palabra_ES: silvestre 
+ Traducción_NA:
+ tlal:0.808
+ tlalticpac:0.665
+ ayo:0.593
+ tal:0.572
+ y:0.563
+ ax:0.553
+ talmanic:0.541
+ al:0.539
+ tin:0.526
+ cuechac:0.525 
+ Referencia: ['cuauh', 'tlal'] 
+ Rank: 1
+
+83 Palabra_ES: final 
+ Traducción_NA:
+ mix:0.799
+ xip:0.709
+ im:0.691
+ yb:0.682
+ dral:0.674
+ mochi:0.670
+ diego:0.655
+ cauh:0.653
+ zcuco:0.643
+ y:0.642 
+ Referencia: ['tlatz'] 
+ Rank: 57
+
+84 Palabra_ES: suceder 
+ Traducción_NA:
+ chiuh:0.563
+ chihua:0.516
+ cholo:0.513
+ xip:0.502
+ ga:0.488
+ oquimo:0.482
+ quenin:0.476
+ tlaca:0.476
+ cequin:0.475
+ tihuetz:0.473 
+ Referencia: ['chiuh', 'chiu', 'pano', 'panoa'] 
+ Rank: 1
+
+85 Palabra_ES: venir 
+ Traducción_NA:
+ hual:0.883
+ hualla:0.717
+ huitz:0.659
+ m:0.621
+ yb:0.616
+ zcuco:0.615
+ zque:0.597
+ quin:0.578
+ auh:0.574
+ dral:0.571 
+ Referencia: ['hual', 'hualla'] 
+ Rank: 1
+
+86 Palabra_ES: molcajete 
+ Traducción_NA:
+ molcaxitl:0.971
+ temolcax:0.863
+ otzoy:0.687
+ caxi:0.684
+ xommo:0.679
+ zoqui:0.660
+ tlaxamanil:0.633
+ tzoaloni:0.622
+ chiquihui:0.590
+ stancia:0.589 
+ Referencia: ['molcaxitl', 'temolcax'] 
+ Rank: 1
+
+87 Palabra_ES: pantalón 
+ Traducción_NA:
+ pantalon:0.980
+ beethoven:0.771
+ chachal:0.767
+ villistas:0.761
+ comal:0.757
+ echicoliz:0.756
+ anechhuall:0.752
+ matiloa:0.751
+ rafael:0.746
+ acamapich:0.739 
+ Referencia: ['pantalon'] 
+ Rank: 1
+
+88 Palabra_ES: aguacate 
+ Traducción_NA:
+ aztlacapalli:0.948
+ tolachno:0.814
+ ahua:0.668
+ pix:0.593
+ poyox:0.570
+ diego:0.505
+ yb:0.500
+ dral:0.497
+ izhua:0.496
+ rosario:0.489 
+ Referencia: ['ahua'] 
+ Rank: 3
+
+89 Palabra_ES: tepaneca 
+ Traducción_NA:
+ colhuaca:0.886
+ eca:0.682
+ popolo:0.627
+ culhuacan:0.601
+ oquim:0.578
+ ahuacatl:0.550
+ mexica:0.546
+ motlanahuatili:0.540
+ cocox:0.528
+ quim:0.523 
+ Referencia: ['eca', 'tepan'] 
+ Rank: 2
+
+90 Palabra_ES: coyote 
+ Traducción_NA:
+ camachalo:0.670
+ coyoc:0.612
+ ichca:0.601
+ cuaz:0.537
+ zauh:0.524
+ huitequi:0.522
+ zahua:0.504
+ pu:0.495
+ extiz:0.488
+ dios:0.471 
+ Referencia: ['coyo', 'coyoc'] 
+ Rank: 2
+
+91 Palabra_ES: mirada 
+ Traducción_NA:
+ tlachia:0.800
+ im:0.724
+ mix:0.701
+ xip:0.689
+ tz:0.677
+ yuhqui:0.653
+ milacatzo:0.648
+ ix:0.647
+ tta:0.644
+ auh:0.641 
+ Referencia: ['tlachia'] 
+ Rank: 1
+
+92 Palabra_ES: chiquillo 
+ Traducción_NA:
+ ninozcalia:0.781
+ cuiya:0.609
+ xip:0.604
+ cuitl:0.586
+ miec:0.579
+ ten:0.579
+ mahui:0.578
+ pohua:0.570
+ itzopelica:0.565
+ immoma:0.561 
+ Referencia: ['pipil'] 
+ Rank: 454
+
+93 Palabra_ES: salvador 
+ Traducción_NA:
+ salvador:0.949
+ tema:0.808
+ quixti:0.731
+ pr:0.564
+ cachihualiz:0.556
+ jesu:0.546
+ macehui:0.525
+ xip:0.511
+ yia:0.509
+ yb:0.508 
+ Referencia: ['quixti', 'salvador', 'tema'] 
+ Rank: 1
+
+94 Palabra_ES: puramente 
+ Traducción_NA:
+ ommihzo:0.807
+ imayauhcan:0.778
+ imayauhcampa:0.638
+ ceuh:0.574
+ nepantla:0.561
+ iye:0.544
+ dral:0.536
+ pochcopa:0.535
+ secretario:0.532
+ tepahpaquiltia:0.528 
+ Referencia: ['zan', 'za'] 
+ Rank: 69
+
+95 Palabra_ES: llevar 
+ Traducción_NA:
+ huica:0.870
+ mama:0.686
+ cuica:0.651
+ tqui:0.632
+ polactia:0.600
+ zcuco:0.599
+ tepahpaquiltia:0.596
+ xip:0.596
+ cui:0.592
+ quiliz:0.587 
+ Referencia: ['cuica', 'tqui', 'huica'] 
+ Rank: 1
+
+96 Palabra_ES: ropa 
+ Traducción_NA:
+ tzotzoma:0.979
+ ui:0.605
+ dral:0.547
+ nuevo:0.541
+ tzatzapal:0.539
+ xolochcue:0.537
+ diego:0.534
+ secretario:0.534
+ rosario:0.533
+ acamapich:0.532 
+ Referencia: ['tzotzoma'] 
+ Rank: 1
+
+97 Palabra_ES: tema 
+ Traducción_NA:
+ tema:0.956
+ salvador:0.769
+ zcal:0.638
+ quixti:0.604
+ cachihualiz:0.602
+ xip:0.600
+ auh:0.597
+ zque:0.591
+ zcuco:0.585
+ yuhqui:0.576 
+ Referencia: ['tema'] 
+ Rank: 1
+
+98 Palabra_ES: rogar 
+ Traducción_NA:
+ tahtan:0.909
+ tlauhti:0.891
+ tamechtahtanil:0.777
+ tlauhtia:0.679
+ ili:0.647
+ idl:0.622
+ xip:0.582
+ nimitz:0.565
+ end:0.562
+ namech:0.559 
+ Referencia: ['tahtan'] 
+ Rank: 1
+
+99 Palabra_ES: vestido 
+ Traducción_NA:
+ tzotzoma:0.660
+ nequia:0.598
+ sa:0.569
+ xolochcue:0.544
+ quen:0.539
+ cocone:0.518
+ cah:0.505
+ ilpi:0.477
+ icuilacta:0.472
+ oncuan:0.467 
+ Referencia: ['tzotzoma', 'quen'] 
+ Rank: 1
+
+100 Palabra_ES: indio 
+ Traducción_NA:
+ ig:0.738
+ macehual:0.703
+ quixtiz:0.607
+ quiliz:0.602
+ obispo:0.560
+ xip:0.547
+ monexiti:0.541
+ iteopixca:0.540
+ ocaxil:0.540
+ tta:0.538 
+ Referencia: ['macehual'] 
+ Rank: 2
+
+101 Palabra_ES: llano 
+ Traducción_NA:
+ talmanic:0.927
+ mani:0.699
+ tlal:0.638
+ tlalticpac:0.628
+ dral:0.561
+ diego:0.551
+ secretario:0.546
+ rosario:0.545
+ castillo:0.537
+ acamapich:0.537 
+ Referencia: ['xtlahua', 'tlal', 'talmanic'] 
+ Rank: 1
+
+102 Palabra_ES: descubrir 
+ Traducción_NA:
+ ixpetla:0.828
+ nexti:0.655
+ tolini:0.646
+ timamalihuac:0.583
+ mix:0.576
+ cala:0.550
+ namiqui:0.543
+ tlachia:0.519
+ tz:0.517
+ ixeo:0.512 
+ Referencia: ['ixpetla', 'nexti'] 
+ Rank: 1
+
+103 Palabra_ES: niño 
+ Traducción_NA:
+ tzitzintin:0.786
+ cocone:0.772
+ conetl:0.739
+ pipil:0.731
+ toton:0.702
+ pil:0.682
+ cihuanton:0.680
+ machti:0.600
+ amen:0.587
+ telpoca:0.583 
+ Referencia: ['pipil', 'cihuanton', 'cocone', 'conetl'] 
+ Rank: 2
+
+104 Palabra_ES: desierto 
+ Traducción_NA:
+ ceuh:0.801
+ er:0.781
+ des:0.770
+ ommihzo:0.606
+ olpi:0.569
+ izquin:0.549
+ mp:0.478
+ diego:0.475
+ dral:0.468
+ achtopa:0.463 
+ Referencia: ['des'] 
+ Rank: 3
+
+105 Palabra_ES: efecto 
+ Traducción_NA:
+ ihtotia:0.625
+ tlaocox:0.613
+ oquich:0.593
+ nehnemi:0.564
+ mixco:0.518
+ ellel:0.499
+ tz:0.499
+ mito:0.495
+ oceloquichtle:0.476
+ quimon:0.473 
+ Referencia: ['nel'] 
+ Rank: 777
+
+106 Palabra_ES: diverso 
+ Traducción_NA:
+ nepapan:0.874
+ mota:0.832
+ motemilih:0.764
+ tatemp:0.561
+ huipan:0.557
+ tepahpaquiltia:0.531
+ huiptla:0.521
+ dral:0.506
+ diego:0.502
+ secretario:0.500 
+ Referencia: ['nepapan'] 
+ Rank: 1
+
+107 Palabra_ES: coger 
+ Traducción_NA:
+ ana:0.638
+ ochol:0.567
+ cholo:0.562
+ milacatzo:0.560
+ tecuan:0.549
+ cuecue:0.540
+ ictique:0.537
+ tzicuin:0.524
+ mac:0.516
+ choloa:0.514 
+ Referencia: ['ana', 'cui', 'cana'] 
+ Rank: 1
+
+108 Palabra_ES: vaca 
+ Traducción_NA:
+ uacax:0.940
+ enepil:0.819
+ huen:0.657
+ cuacua:0.621
+ cueh:0.617
+ tictohuaxcati:0.541
+ cihua:0.520
+ mp:0.503
+ panoa:0.479
+ dral:0.477 
+ Referencia: ['uacax', 'cuacua'] 
+ Rank: 1
+
+109 Palabra_ES: quitar 
+ Traducción_NA:
+ ihcuani:0.687
+ cciz:0.681
+ nech:0.648
+ cuilia:0.611
+ cuih:0.582
+ tlalia:0.562
+ cui:0.550
+ huizque:0.542
+ pachoa:0.532
+ mochi:0.530 
+ Referencia: ['cuicuil', 'cuilia'] 
+ Rank: 4
+
+110 Palabra_ES: presencia 
+ Traducción_NA:
+ tlacuauh:0.632
+ mopechteccac:0.631
+ tzinco:0.598
+ quimolhui:0.597
+ tlazoh:0.550
+ contla:0.549
+ tzicuin:0.542
+ eltilitiuh:0.542
+ uad:0.537
+ ix:0.524 
+ Referencia: ['ix'] 
+ Rank: 10
+
+111 Palabra_ES: pídele 
+ Traducción_NA:
+ htlan:0.915
+ puebla:0.764
+ mayana:0.599
+ illi:0.578
+ htlani:0.568
+ icni:0.551
+ apiz:0.550
+ xicol:0.547
+ apiaz:0.533
+ secretario:0.521 
+ Referencia: ['htlan', htlani] 
+ Rank: 1
+
+112 Palabra_ES: pedirle 
+ Traducción_NA:
+ mihtlanililia:0.955
+ pouhilil:0.759
+ neltili:0.669
+ tti:0.659
+ titlani:0.650
+ chiyali:0.644
+ chililiz:0.644
+ eltilitiuh:0.643
+ quimolhui:0.628
+ imottilih:0.625 
+ Referencia: ['mihtlanililia', 'htlan', htlani] 
+ Rank: 1
+
+113 Palabra_ES: izquierda 
+ Traducción_NA:
+ pochcopa:0.925
+ poch:0.624
+ imayauhcampa:0.592
+ imayauhcan:0.515
+ au:0.505
+ mian:0.502
+ acacic:0.501
+ iye:0.494
+ diego:0.479
+ dral:0.479 
+ Referencia: ['pochcopa', 'opoch', 'poch'] 
+ Rank: 1
+
+114 Palabra_ES: ocurrir 
+ Traducción_NA:
+ yoh:0.641
+ quem:0.636
+ pano:0.581
+ machi:0.563
+ zquiani:0.546
+ onino:0.538
+ ammo:0.530
+ bar:0.529
+ nicnemili:0.529
+ chiuh:0.522 
+ Referencia: ['chiuh', 'pano'] 
+ Rank: 3
+
+115 Palabra_ES: despreciar 
+ Traducción_NA:
+ ech:0.785
+ xinech:0.770
+ tlecuezal:0.658
+ pu:0.600
+ cizu:0.592
+ ilama:0.562
+ pehua:0.558
+ xmechmo:0.548
+ tlachie:0.548
+ dral:0.538 
+ Referencia: ['mah', 'pehua'] 
+ Rank: 7
+
+116 Palabra_ES: agregar 
+ Traducción_NA:
+ motlali:0.846
+ tiliaya:0.821
+ tlahuicxitilli:0.713
+ tlalia:0.678
+ cuacualaca:0.673
+ tec:0.649
+ itzoltilia:0.641
+ huic:0.632
+ paca:0.597
+ caxi:0.596 
+ Referencia: ['motlali', 'tlalia'] 
+ Rank: 1
+
+117 Palabra_ES: amargo 
+ Traducción_NA:
+ chichi:0.662
+ itzcuin:0.606
+ choca:0.529
+ miz:0.521
+ tepahpaquiltia:0.521
+ onohualco:0.513
+ mimizt:0.509
+ ixpetla:0.503
+ pia:0.501
+ xip:0.499 
+ Referencia: ['chichi'] 
+ Rank: 1
+
+118 Palabra_ES: centenario 
+ Traducción_NA:
+ nario:0.914
+ premios:0.821
+ icuilacta:0.795
+ ipanoque:0.739
+ presi:0.695
+ tazohta:0.649
+ hcuilo:0.601
+ elehui:0.597
+ diego:0.590
+ dral:0.586 
+ Referencia: ['nario'] 
+ Rank: 1
+
+119 Palabra_ES: voz 
+ Traducción_NA:
+ tzahtzi:0.885
+ nopiltzin:0.595
+ xinechmotlapohpolhuili:0.539
+ mu:0.529
+ omitz:0.521
+ tzatzi:0.505
+ im:0.498
+ tepotz:0.494
+ dral:0.492
+ tze:0.487 
+ Referencia: ['tzatzi', 'tzahtzi'] 
+ Rank: 1
+
+120 Palabra_ES: animal 
+ Traducción_NA:
+ yolca:0.972
+ v:0.703
+ pu:0.589
+ iapizmi:0.555
+ pah:0.548
+ mictia:0.534
+ rn:0.512
+ ichca:0.509
+ ea:0.502
+ miltequitca:0.500 
+ Referencia: ['yoyolcameh', 'yolca'] 
+ Rank: 1
+
+121 Palabra_ES: nombre 
+ Traducción_NA:
+ toca:0.867
+ tocayoti:0.716
+ tlahtoca:0.629
+ hispan:0.626
+ v:0.612
+ de:0.611
+ ixiptla:0.600
+ y:0.599
+ gali:0.593
+ año:0.591 
+ Referencia: ['toca'] 
+ Rank: 1
+
+122 Palabra_ES: pedir 
+ Traducción_NA:
+ htlani:0.849
+ tlania:0.633
+ tahtan:0.616
+ tamechtahtanil:0.610
+ neltili:0.605
+ nimitz:0.588
+ lih:0.568
+ ichpoc:0.537
+ htlan:0.527
+ tenehui:0.512 
+ Referencia: ['htlani', 'htlan', 'mihtlanililia', 'tahtan', 'tamechtahtanil'] 
+ Rank: 1
+
+123 Palabra_ES: nabo 
+ Traducción_NA:
+ stancia:0.922
+ bo:0.894
+ catarina:0.792
+ ga:0.675
+ cuechahua:0.648
+ cec:0.586
+ pexon:0.566
+ temolcax:0.556
+ zul:0.553
+ chipahuaque:0.551 
+ Referencia: ['bo'] 
+ Rank: 2
+
+124 Palabra_ES: derecho 
+ Traducción_NA:
+ ihtoh:0.816
+ melahua:0.727
+ iyaca:0.677
+ melauh:0.664
+ ozto:0.624
+ nel:0.582
+ milacatzo:0.531
+ itt:0.524
+ tecu:0.509
+ pilca:0.509 
+ Referencia: ['melahua', 'yec', 'melauh'] 
+ Rank: 2
+
+125 Palabra_ES: uña 
+ Traducción_NA:
+ cuicuil:0.799
+ moci:0.721
+ ahuiz:0.660
+ poch:0.581
+ mihiyohuilti:0.545
+ itz:0.541
+ diego:0.518
+ tlaloa:0.515
+ dral:0.507
+ ciauh:0.504 
+ Referencia: ['itz'] 
+ Rank: 6
+
+126 Palabra_ES: naranja 
+ Traducción_NA:
+ naranja:0.975
+ juzga:0.615
+ ameyal:0.571
+ tzopel:0.556
+ matiloa:0.535
+ comal:0.533
+ orcasitas:0.532
+ ieltapach:0.531
+ chachal:0.528
+ perah:0.522 
+ Referencia: ['xal', 'naranja'] 
+ Rank: 1
+
+127 Palabra_ES: prestar 
+ Traducción_NA:
+ ehuia:0.937
+ onite:0.754
+ icni:0.584
+ jo:0.538
+ 19:0.531
+ nocupix:0.531
+ diego:0.523
+ rosario:0.514
+ dral:0.512
+ acamapich:0.506 
+ Referencia: ['ehuia'] 
+ Rank: 1
+
+128 Palabra_ES: perforar 
+ Traducción_NA:
+ coyoni:0.941
+ coyoc:0.790
+ acacic:0.690
+ ohuehyiyac:0.626
+ poch:0.569
+ amaihcuilol:0.559
+ rdenas:0.553
+ diego:0.542
+ dral:0.539
+ tecu:0.535 
+ Referencia: ['coyoni', 'coyoc'] 
+ Rank: 1
+
+129 Palabra_ES: portal 
+ Traducción_NA:
+ ticchi:0.710
+ por:0.596
+ chia:0.585
+ min:0.570
+ yehhua:0.556
+ tlalticpac:0.521
+ axcan:0.519
+ moyacanilia:0.514
+ chien:0.503
+ ohuala:0.501 
+ Referencia: ['por', 'tal'] 
+ Rank: 2
+
+130 Palabra_ES: introducir 
+ Traducción_NA:
+ calaqui:0.747
+ calaquia:0.718
+ calac:0.686
+ nican:0.610
+ xip:0.562
+ hual:0.543
+ puerta:0.511
+ im:0.502
+ cui:0.497
+ auh:0.492 
+ Referencia: ['calaqui', 'calaquia'] 
+ Rank: 1
+
+131 Palabra_ES: quetzal 
+ Traducción_NA:
+ quetzal:0.982
+ coatl:0.729
+ zacuan:0.722
+ chalchihui:0.711
+ chalchiuh:0.682
+ ihui:0.663
+ potonia:0.656
+ quechol:0.637
+ tapayol:0.634
+ cozcatl:0.634 
+ Referencia: ['quetzal'] 
+ Rank: 1
+
+132 Palabra_ES: alimento 
+ Traducción_NA:
+ pal:0.690
+ tota:0.677
+ nuestro:0.618
+ ol:0.604
+ celi:0.604
+ tlacual:0.581
+ quiyauh:0.575
+ ihchican:0.561
+ xip:0.551
+ toh:0.547 
+ Referencia: ['atetzocoa', 'pal'] 
+ Rank: 1
+
+133 Palabra_ES: tapar 
+ Traducción_NA:
+ pachoa:0.953
+ cciz:0.738
+ cuih:0.727
+ motequipacho:0.693
+ pacho:0.662
+ itzoltilia:0.653
+ zoqui:0.647
+ tlahuicxitilli:0.614
+ caxi:0.614
+ tequi:0.609 
+ Referencia: ['pachoa'] 
+ Rank: 1
+
+134 Palabra_ES: tortuga 
+ Traducción_NA:
+ tectli:0.816
+ tlahuicxitilli:0.678
+ ayo:0.676
+ caxi:0.633
+ tlalia:0.628
+ zoqui:0.626
+ paca:0.623
+ alac:0.610
+ xip:0.607
+ chiyahuizotl:0.592 
+ Referencia: ['ayo'] 
+ Rank: 3
+
+135 Palabra_ES: levantar 
+ Traducción_NA:
+ quetza:0.634
+ yb:0.597
+ ohuatzintic:0.592
+ yollo:0.560
+ xip:0.540
+ bar:0.539
+ zcuco:0.537
+ quechi:0.530
+ dral:0.527
+ diego:0.524 
+ Referencia: ['quetza'] 
+ Rank: 1
+
+136 Palabra_ES: verde 
+ Traducción_NA:
+ xoxo:0.883
+ xoxouhqui:0.839
+ ayohhuach:0.715
+ zaca:0.708
+ chilmolli:0.657
+ molli:0.623
+ calhuahza:0.568
+ chalchiuh:0.563
+ xole:0.556
+ chichil:0.547 
+ Referencia: ['xoxouhqui', 'xoxo'] 
+ Rank: 1
+
+137 Palabra_ES: grande 
+ Traducción_NA:
+ hueyi:0.955
+ huey:0.693
+ hue:0.656
+ altpe:0.623
+ gali:0.601
+ ohuehyiyac:0.597
+ altepe:0.581
+ chamahuac:0.576
+ izcal:0.567
+ piloa:0.559 
+ Referencia: ['hueyi', 'huey'] 
+ Rank: 1
+
+138 Palabra_ES: alfredo 
+ Traducción_NA:
+ alfredo:0.976
+ matiloa:0.767
+ chachal:0.760
+ felipe:0.735
+ xacualoa:0.730
+ ieltapach:0.730
+ salveros:0.727
+ club:0.727
+ rafael:0.726
+ organil:0.725 
+ Referencia: ['alfredo'] 
+ Rank: 1
+
+139 Palabra_ES: sólo 
+ Traducción_NA:
+ zan:0.851
+ zcuco:0.749
+ im:0.742
+ choh:0.730
+ xip:0.696
+ yuhqui:0.693
+ yb:0.679
+ zque:0.676
+ auh:0.669
+ omo:0.664 
+ Referencia: ['zan', 'za'] 
+ Rank: 1
+
+140 Palabra_ES: patio 
+ Traducción_NA:
+ patio:0.978
+ itual:0.969
+ ithual:0.922
+ nepantla:0.650
+ ber:0.634
+ calitic:0.564
+ nex:0.514
+ pixca:0.511
+ ticatca:0.507
+ cotona:0.503 
+ Referencia: ['itual', 'patio', 'ithual'] 
+ Rank: 1
+ 
+P@1= 0.671
+P@5= 0.886
+P@10 0.914
